@@ -6,7 +6,7 @@
 	<!--<groupId>com.sysnormal.security.auth</groupId>-->
 	<groupId>io.github.sysnormal1.security.auth</groupId>
 	<artifactId>auth-core</artifactId>
-	<version>0.0.2-SNAPSHOT</version>
+	<version>0.0.2</version>
 	<name>auth-core</name>
 	<description>Sysnormal auth-core</description>
 	<url>https://github.com/sysnormal1/auth-core</url>
