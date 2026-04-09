@@ -1,5 +1,8 @@
 # Sysnormal Auth Core
-![Version](https://img.shields.io/badge/maven--central-0.0.1--SNAPSHOT-orange)
+[![Maven Central](https://img.shields.io/maven-central/v/io.github.sysnormal1.security.auth/auth-core.svg)](https://central.sonatype.com/artifact/io.github.sysnormal1.security.auth/auth-core)
+[![MvnRepository](https://img.shields.io/badge/mvnrepository-view-blue)](https://mvnrepository.com/artifact/io.github.sysnormal1.security.auth/auth-core)
+[![GitHub tag](https://img.shields.io/github/v/tag/sysnormal1/auth-core)](https://github.com/sysnormal1/auth-core)
+
 ![Java](https://img.shields.io/badge/Java-21-blue)
 ![Lombok](https://img.shields.io/badge/Lombok-annotations-pink)
 ![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)
@@ -14,7 +17,7 @@ Add the dependency below to your `pom.xml`:
 <dependency>
     <groupId>io.github.sysnormal1.security.auth</groupId>
     <artifactId>auth-core</artifactId>
-    <version>0.0.1</version>
+    <version>0.0.2</version>
 </dependency>
 ```
 
