@@ -12,7 +12,7 @@ import lombok.Setter;
 @Getter
 @Setter
 public class AgentAuthDto {
-    private Long systemId = null;
+    private Long domainId = null;
     private Long accessProfileId = null;
     private Long agentId = null;
     private Long identifierTypeId = null;//IdentifierType.EMAIL_ID;
